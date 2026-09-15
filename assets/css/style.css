@@ -329,8 +329,7 @@ p {
   position: relative;
   overflow: hidden;
   background:
-    linear-gradient(135deg, rgba(120, 22, 46, .11), rgba(164, 95, 80, .18)),
-    var(--blush-soft);
+
   background-position: center;
   background-size: cover;
 }
@@ -393,18 +392,15 @@ p {
 }
 
 #antenatal .media-service {
-  background-image: url("../images/service-antenatal.png");
-  background-color: var(--blush-soft);
+  background-image: url("../images/service-antenatal2.png");
 }
 
 #postnatal .media-service {
   background-image: url("../images/service-postnatal.png");
-  background-color: var(--terracotta);
 }
 
 #follow-up .media-service {
-  background-image: url("../images/service-follow-up.png");
-  background-color: var(--blush-soft);
+  background-image: url("../images/service-follow-up2.png");
 }
 
 .media-contact {
