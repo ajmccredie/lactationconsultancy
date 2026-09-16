@@ -70,6 +70,19 @@ select {
   padding: var(--section) 0;
 }
 
+.brand-logo {
+  display: flex;
+  align-items: center;
+  width: 220px;
+  padding: 8px 0;
+}
+
+.brand-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .skip-link {
   position: fixed;
   left: 1rem;
@@ -328,8 +341,6 @@ p {
 .media-frame {
   position: relative;
   overflow: hidden;
-  background:
-
   background-position: center;
   background-size: cover;
 }
